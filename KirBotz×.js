@@ -377,7 +377,7 @@ const fgi = {
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `KirBotz`,
+                 "title": `LolitaBot`,
                  "h": `${ucapanWaktu} ${pushname}`,
                  'duration': '99999', 
                  'caption': `${ucapanWaktu} ${pushname}`,
@@ -521,10 +521,10 @@ case 'menu':
 kirbotz.sendMessage(from, {"contentText": `Hai Kak *${pushname}* ${ucapanWaktu}
 
 *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
- 💌EMAIL : *tesheroku123@gmail.com*
- 🔎YT : *https://bit.ly/3BpBe1Z*
- 🪀GROUP : *https://bit.ly/3Ene2TO*
+ 👤OWNER : *https://wa.me/6285888258313*
+ 💌EMAIL : *Lolitabotz@gmail.com*
+ 🔎YT : *404*
+ 🪀GROUP : *404*
 `,"footerText": `*ꪶ ཻུ۪۪ꦽꦼ̷⸙𝕶𝖎𝖗𝕭𝖔𝖙𝖟ꪶ ཻུ۪۪ꦽꦼ̷⸙ || ${date}*`,
 "buttons": [
 {buttonId: `.allmenu`, buttonText: {displayText: '🏴‍☠️ 𝕄𝔼ℕ𝕌 🏴‍☠️'}, type: 1},
@@ -533,12 +533,12 @@ kirbotz.sendMessage(from, {"contentText": `Hai Kak *${pushname}* ${ucapanWaktu}
 "headerType": "DOCUMENT", "documentMessage": {
             "url": "https://mmg.whatsapp.net/d/f/Ano5cGYOFQnC51uJaqGBWiCrSJH1aDCi8-YPQMMb1N1y.enc",
             "mimetype": "application/pdf",
-            "title": "KirBotz.pdf",
+            "title": "Lolita.pdf",
             "fileSha256": "8Xfe3NQDhjwVjR54tkkShLDGrIFKR9QT5EsthPyxDCI=",
             "fileLength": "999999999999",
             "pageCount": 999,
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
-            "fileName": "KirBotz Bot WhatsApp",
+            "fileName": "Lolita whatsapp bot",
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
             "directPath": "/v/t62.7119-24/35160407_568282564396101_3119299043264875885_n.enc?ccb=11-4&oh=d43befa9a76b69d757877c3d430a0752&oe=61915CEC",
             "mediaKeyTimestamp": "1634472176",
@@ -551,7 +551,7 @@ case 'allmenu':
 const totalgrouppp = await kirbotz.chats.array.filter(v => v.jid.endsWith('g.us'))
 const totalkontakkk = await kirbotz.chats.array.filter(v => v.jid.endsWith('s.whatsapp.net'))
 const totalchattt = await kirbotz.chats.all()
-const SadGril = "6287705048235@s.whatsapp.net"
+const SadGril = "6285888258313@s.whatsapp.net"
 	run = process.uptime() 
     teks = `${kyun(run)}`
     try {
@@ -560,7 +560,7 @@ pic = await kirbotz.getProfilePicture(sender)
 pic = 'https://i.ibb.co/Tq7d7TZ/age-hananta-495-photo.png'
 }
 gambar = await getBuffer(pic)
-    mhan = await kirbotz.prepareMessage(from, gambar, image, {thumbnail: gambar, quoted: ftrol, contextInfo:{"forwardingScore":999,"isForwarded":true, "mentionedJid": [SadGril],"externalAdReply": {"title": `${ucapanWaktu}`, mediaType: 2, "thumbnailUrl": "https://telegra.ph/file/daa8e7a3280efa76acce1.jpg","previewType": "VIDEO","mediaUrl": `https://youtu.be/aoGtvzi6ef4`}}})
+    mhan = await kirbotz.prepareMessage(from, gambar, image, {thumbnail: gambar, quoted: ftrol, contextInfo:{"forwardingScore":999,"isForwarded":true, "mentionedJid": [SadGril],"externalAdReply": {"title": `${ucapanWaktu}`, mediaType: 2, "thumbnailUrl": "https://telegra.ph/file/daa8e7a3280efa76acce1.jpg","previewType": "VIDEO","mediaUrl": `https://www.youtu.be/dQw4w9WgXcQ`}}})
     button = [
   {buttonId: '.sewabot', buttonText: {displayText: 'SEWABOT'}, type: 1},
   {buttonId: '.owner', buttonText: {displayText: 'OWNER'}, type: 1}
@@ -770,10 +770,10 @@ imageMessage: mhan.message.imageMessage,
 		${prefix}pubg`,
     footerText: `
     *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
- 💌EMAIL : *tesheroku123@gmail.com*
- 🔎YT : *https://bit.ly/3BpBe1Z*
- 🪀GROUP : *https://bit.ly/3Ene2TO*
+ 👤OWNER : *https://wa.me/6285888258313*
+ 💌EMAIL : *Lolitabotz@gmail.com*
+ 🔎YT : *404*
+ 🪀GROUP : *404*
 
 
 *𝕶𝖎𝖗𝕭𝖔𝖙𝖟ꪶ𖣂ꫂ || ${date}*
@@ -1715,25 +1715,7 @@ case 'tourl':
                break
 case 'script': case 'sc':
  kirbotz.sendMessage(from,`
- ⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿
- ⣿⣿⣿⣿⣿⣿⡟⠁⠄⠄⠄⠄⣠⣤⣴⣶⣶⣶⣶⣤⡀⠈⠙⢿
- ⣿⣿⣿⣿⣿⡟⠄⠄⠄⠄⠄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠈
- ⣿⣿⣿⣿⣿⠁⠄⠄⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
- ⣿⣿⣿⣿⣿⡄⠄⠄⠄⠙⠻⠿⣿⣿⣿⣿⠿⠿⠛⠛⠻⣿⡄⠄
- ⣿⣿⣿⣿⣿⡇⠄⠄⠁ ⭕ ⠄⢹⣿⡗⠄ ⭕ ⢄⡀⣾⢀
- ⣿⣿⣿⣿⣿⡇⠘⠄⠄⠄⢀⡀⠄⣿⣿⣷⣤⣤⣾⣿⣿⣿⣧⢸
- ⣿⣿⣿⣿⣿⡇⠄⣰⣿⡿⠟⠃⠄⣿⣿⣿⣿⣿⡛⠿⢿⣿⣷⣾
- ⣿⣿⣿⣿⣿⣿⡄⠈⠁⠄⠄⠄⠄⠻⠿⢛⣿⣿⠿⠂⠄⢹⢹⣿
- ⣿⣿⣿⣿⣿⣿⣿⡐⠐⠄⠄⣠⣀⣀⣚⣯⣵⣶⠆⣰⠄⠞⣾⣿
- ⣿⣿⣿⣿⣿⣿⣿⣷⡄⠄⠄⠈⠛⠿⠿⠿⣻⡏⢠⣿⣎⣾⣿⣿
- ⣿⣿⣿⣿⣿⣿⡿⠟⠛⠄⠄⠄⠄⠙⣛⣿⣿⣵⣿⡿⢹⡟⣿⣿
- ⣿⠿⠿⠋⠉⠄⠄⠄⠄⠄⠄⠄⣀⣠⣾⣿⣿⣿⡟⠁⠹⡇⣸⣿
- ⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⠿⠿⠛⠋⠄⣸⣦⣠⣿⣿
-
-Script Bot? Cek Yt Link Di Bawah ↓↓
-•• https://youtube.com/channel/UC7NslQroUqQYzo2wDFBOUMg
-`, text, { thumbnail: krbtz, sendEphemeral: true, quoted: fdoc, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📄 𝕊ℂℝ𝕀ℙ𝕋 📄",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./AkIrTid/kirbotz.jpg'),sourceUrl:"https://youtube.com/channel/UC7NslQroUqQYzo2wDFBOUMg"}}} )
-
+youtu.be/iik25wqluFo
 		break
 case 'take':
        case 'colong':   
