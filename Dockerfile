@@ -11,6 +11,7 @@ RUN apt-get update && \
 
 COPY package.json .
 RUN npm install -g npm@latest
+RUN npm install yt-search
 RUN npm install 
 RUN npm instal -g pm2
 ENV PM2_PUBLIC_KEY 04vkir4tk7lmui6
